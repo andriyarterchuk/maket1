@@ -227,6 +227,9 @@ li a {
     color: #555555;
     text-align: center;
 }
+.latest img {
+    width: 100%;
+}
 .btn1 {
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
@@ -245,23 +248,24 @@ li a {
     color: #c7b299;
     margin-top: 0px;
     padding-top: 10px;
+    padding-bottom: 0px;
 }
 .pict p {
     font-family: 'Montserrat', sans-serif;
     font-size: 11px;
     color: #d1d1d1;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
 }
 .pict {
     background-color: #fbfaf8;
     padding: 0;
-    width: 370px;
-    margin-bottom: 30px;
+    width: 100%;
 }
 .pict1 {
     background-color: #362f2d;
     padding: 0;
-    width: 370px;
-    margin-bottom: 30px;
+    width: 100%;
 }
 .btnlatest {
     margin-top: 20px;
@@ -393,7 +397,7 @@ li a {
     content: "";
     background-image: url(../img/prefootline.png);
     position: absolute;
-    width: 270px;
+    width: 90%;
     height: 2px;
 }
 .post2 h4 {
@@ -410,6 +414,9 @@ li a {
     font-size: 24px;
     margin-top: 30px;
     margin-left: 0;
+}
+.pre3 img {
+    width: 100%;
 }
 .pref {
     margin-top: 20px;
@@ -432,7 +439,7 @@ li a {
     content: "";
     background-image: url(../img/prefootline.png);
     position: absolute;
-    width: 270px;
+    width: 90%;
     height: 2px;
 }
 .tw {
